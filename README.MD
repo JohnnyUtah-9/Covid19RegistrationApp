@@ -1,11 +1,11 @@
-#  Covid19 Vaccine Platform Neutral Registration
+#  Covid19 Vaccine Neutral Registration Platform
    Team Members 
    Kenna King
    Michael Burns 
    Sidney Johnson 
    Tanya Yousofi
-- The Vaccine registration app will take user input fields and sort them to multiple organization's online vaccine 
-- registration forms and autopopulate their reigstration forms based on state determined priority grouping and geogrpahic promixity
+- The Vaccine registration app will take user input fields and sort them to multiple organizations vaccine 
+- registration form, it will autopopulate the reigstration forms based on state determined priority groupings
 ##
 # Install Prerequisites:
  - Install Docker on Machine
