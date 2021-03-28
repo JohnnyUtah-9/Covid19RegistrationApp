@@ -1,4 +1,4 @@
-#  Covid19 Vaccine Neutral Registration Platform
+#  Covid19 Vaccine Registration Platform Portal
    Team Members 
    Kenna King
    Michael Burns 
